@@ -19,8 +19,9 @@ end
 
 function newton(init,ϵ,δ)
     k=0
-    x = x - f(x)/
+    x = x - f(x)
 end
+
 
 # secant method, evaluate the derivatives
 # $f'(x)=f(x+h)-f(x)/h$
